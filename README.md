@@ -4,12 +4,6 @@
   <h3 align="center">AI Multi‑Agent Travel Assistant</h3>
 </div>
 
-## Problem Statement
-
-•	What we're solving: 
-Travelers and trip planners juggle bookings, budgets, itineraries, and local research across many websites and tools. This fragmented workflow wastes time and causes suboptimal decisions (missed deals, overbooked days, confusing itineraries).
-•	Goal:
-Provide a single, collaborative multi-agent system that helps users plan, compare, and manage trips end-to-end: search and compare flight/hotel options, create optimized daily itineraries, track budgets, and surface local recommendations — all through a simple dashboard.
 
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -17,6 +11,14 @@ Provide a single, collaborative multi-agent system that helps users plan, compar
 This project implements a real AI multi‑agent system for travel planning. Users provide destination, start date, travel‑from origin, travel style, interests, group type, budget, and optional notes. The app orchestrates 5 specialized agents to return a day‑by‑day itinerary, weather, flight/hotel/package deals (₹), local transport, and reminders/next steps.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
+
+## Problem Statement
+
+•	What we're solving: 
+Travelers and trip planners juggle bookings, budgets, itineraries, and local research across many websites and tools. This fragmented workflow wastes time and causes suboptimal decisions (missed deals, overbooked days, confusing itineraries).
+
+•	Goal:
+Provide a single, collaborative multi-agent system that helps users plan, compare, and manage trips end-to-end: search and compare flight/hotel options, create optimized daily itineraries, track budgets, and surface local recommendations — all through a simple dashboard.
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
