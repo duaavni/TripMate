@@ -4,9 +4,12 @@
   <h3 align="center">AI Multi‑Agent Travel Assistant</h3>
 </div>
 
-Problem Statement
-•	What we're solving: Travelers and trip planners juggle bookings, budgets, itineraries, and local research across many websites and tools. This fragmented workflow wastes time and causes suboptimal decisions (missed deals, overbooked days, confusing itineraries).
-•	Goal: Provide a single, collaborative multi-agent system that helps users plan, compare, and manage trips end-to-end: search and compare flight/hotel options, create optimized daily itineraries, track budgets, and surface local recommendations — all through a simple dashboard.
+## Problem Statement
+
+•	What we're solving: 
+Travelers and trip planners juggle bookings, budgets, itineraries, and local research across many websites and tools. This fragmented workflow wastes time and causes suboptimal decisions (missed deals, overbooked days, confusing itineraries).
+•	Goal:
+Provide a single, collaborative multi-agent system that helps users plan, compare, and manage trips end-to-end: search and compare flight/hotel options, create optimized daily itineraries, track budgets, and surface local recommendations — all through a simple dashboard.
 
 
 ## <a name="introduction">🤖 Introduction</a>
